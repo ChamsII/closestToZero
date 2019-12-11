@@ -17,4 +17,4 @@ export const closestToZero = ( array_numbers ) => {
 }
 
 
-console.log( closestToZero( [8,2,3,-2] ) )
+//console.log( closestToZero( [8,2,3,-2] ) )
